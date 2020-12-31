@@ -11,6 +11,14 @@ Install the required packages
 * Socket Io - For Realtime Tweets
 * Nodemon 
 
+## Environment variable
+
+Don't forget to add the Twitter Bearer token as ```TWITTER_BEARER_TOKEN```
+
+```js
+touch .env
+TWITTER_BEARER_TOKEN = XXXXX_XXXXXX_XXXXXX
+```
 
 ## Usage
 Package Installation
